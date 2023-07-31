@@ -9,17 +9,17 @@
 ### The target variable (loan status) had imbalanced classes, with a significantly larger number of healthy loans compared to high-risk loans. The value_counts function was used to display the distribution of the target variable in the dataset.
 
 ### The machine learning process included the following stages:
-1. Data preprocessing: Cleaning and preparing the data for modeling, including handling missing values, encoding categorical variables, and splitting the data into training and testing sets.
+#### 1. Data preprocessing: Cleaning and preparing the data for modeling, including handling missing values, encoding categorical variables, and splitting the data into training and testing sets.
 
-2. Model training: Fitting a logistic regression model using the training data.
+#### 2. Model training: Fitting a logistic regression model using the training data.
 
-3. Model evaluation: Assessing the performance of the model by making predictions on the testing data and generating a classification report containing metrics such as precision, recall, and F1-score.
+#### 3. Model evaluation: Assessing the performance of the model by making predictions on the testing data and generating a classification report containing metrics such as precision, recall, and F1-score.
 
-4. Data resampling: Using the RandomOverSampler module from the imbalanced-learn library to balance the target variable in the training data.
+#### 4. Data resampling: Using the RandomOverSampler module from the imbalanced-learn library to balance the target variable in the training data.
 
-5. Model training with resampled data: Fitting another logistic regression model using the resampled training data.
+#### 5. Model training with resampled data: Fitting another logistic regression model using the resampled training data.
 
-6. Model evaluation with resampled data: Assessing the performance of the model with resampled data by making predictions on the testing data and generating a classification report.
+#### 6. Model evaluation with resampled data: Assessing the performance of the model with resampled data by making predictions on the testing data and generating a classification report.
 
 ### Methods used in this analysis included logistic regression for binary classification (LogisticRegression from sklearn) and random oversampling for handling imbalanced data (RandomOverSampler from imbalanced-learn). The logistic regression models were evaluated based on their ability to predict both healthy and high-risk loans accurately, and their performance was compared to determine which model was more effective in identifying credit risk.
 
