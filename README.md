@@ -31,7 +31,7 @@
 
 
 ### Machine Learning Model 2:
-  ![L2](./L2.png)
+  ![L2](./Images/L2.png)
 
 ## Summary
 
