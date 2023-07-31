@@ -26,7 +26,7 @@
 ## Results
 
 ### Machine Learning Logistic Regression Model:
-  ![L1](./L1.png)
+  ![L1](./Images/L1.png)
 
 
 
