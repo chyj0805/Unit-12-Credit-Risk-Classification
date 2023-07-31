@@ -26,12 +26,12 @@
 ## Results
 
 ### Machine Learning Logistic Regression Model:
-  ![L1](images/L1.png)
+  ![L1](./images/L1.png)
 
 
 
 ### Machine Learning Model 2:
-  ![L2](images/L2.png)
+  ![L2](/.images/L2.png)
 
 ## Summary
 
