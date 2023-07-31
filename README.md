@@ -30,7 +30,7 @@
 
 
 
-### Machine Learning Model 2:
+### Machine Logistic Regression Resampled Model:
   ![L2](./Images/L2.png)
 
 ## Summary
