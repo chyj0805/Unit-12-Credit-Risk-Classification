@@ -30,7 +30,7 @@
 
 
 
-### Machine Logistic Regression Resampled Model:
+### Machine Learning Logistic Regression Resampled Model:
   ![L2](./Images/L2.png)
 
 ## Summary
